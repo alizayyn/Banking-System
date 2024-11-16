@@ -1,0 +1,10 @@
+﻿  Banking System.cpp
+C:\Users\cuty computer\Desktop\New folder\Banking System\Banking System\Banking System.cpp(569,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\cuty computer\Desktop\New folder\Banking System\Banking System\Banking System.cpp(582,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\cuty computer\Desktop\New folder\Banking System\Banking System\Banking System.cpp(197,1): warning C4172: returning address of local variable or temporary: itr
+C:\Users\cuty computer\Desktop\New folder\Banking System\Banking System\Banking System.cpp(202,1): warning C4172: returning address of local variable or temporary: itr
+C:\Users\cuty computer\Desktop\New folder\Banking System\Banking System\Banking System.cpp(121,1): warning C4172: returning address of local variable or temporary: itr
+C:\Users\cuty computer\Desktop\New folder\Banking System\Banking System\Banking System.cpp(126,1): warning C4172: returning address of local variable or temporary: itr
+C:\Users\cuty computer\Desktop\New folder\Banking System\Banking System\Banking System.cpp(121,1): warning C4172: returning address of local variable or temporary: itr
+C:\Users\cuty computer\Desktop\New folder\Banking System\Banking System\Banking System.cpp(126,1): warning C4172: returning address of local variable or temporary: itr
+  Banking System.vcxproj -> C:\Users\cuty computer\Desktop\New folder\Banking System\x64\Debug\Banking System.exe
